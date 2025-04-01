@@ -2,6 +2,8 @@
 
 GIAIC
 
+https://saimasalarproject-8-python-app-bmi-calculator.streamlit.app/
+
 This Streamlit-based BMI Calculator allows users to input their weight (kg) and height (cm) to compute their Body Mass Index (BMI) and categorize it accordingly.
 
 
